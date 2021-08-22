@@ -7,6 +7,7 @@ namespace treino
         static void Main(string[] args)
         {
             Console.WriteLine("Estou treinando acesso github");
+            Console.WriteLine("tank");
         }
     }
 }
